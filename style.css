@@ -13,6 +13,8 @@
 }
 .fa-ul{
     margin-right: -20px;
+
+    
     
   
     
@@ -69,4 +71,8 @@ ul li{
     font-size: 12px;
     border: none;
     cursor: pointer;
+}
+
+.wrapper{
+    position: relative;top: -600px;right: -400px;
 }
